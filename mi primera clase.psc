@@ -1,5 +1,5 @@
 Proceso sin_titulo
-	Escribir "cantidad"
+	Escribir "cantidad" // esto es un comentario de una línea. Se eñade dos slash y despues el texto.
 	leer cantidad
 	Escribir "precio"	
 	leer precio
